@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infuriating.App", "Infuriating.App\Infuriating.App.csproj", "{10614467-39A5-44F7-A21A-9CE9700DC96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infuriating.CodeAnalysis", "Infuriating.CodeAnalysis\Infuriating.CodeAnalysis.csproj", "{B54BC479-5069-4F52-8C5D-55BBA9AC9D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10614467-39A5-44F7-A21A-9CE9700DC96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10614467-39A5-44F7-A21A-9CE9700DC96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10614467-39A5-44F7-A21A-9CE9700DC96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10614467-39A5-44F7-A21A-9CE9700DC96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54BC479-5069-4F52-8C5D-55BBA9AC9D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54BC479-5069-4F52-8C5D-55BBA9AC9D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54BC479-5069-4F52-8C5D-55BBA9AC9D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54BC479-5069-4F52-8C5D-55BBA9AC9D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F905266-0A6D-4E15-BE2F-00BFC62E197F}
+	EndGlobalSection
+EndGlobal
